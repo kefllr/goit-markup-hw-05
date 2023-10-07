@@ -648,7 +648,6 @@ letter-spacing: 0.48px;
     width: 100%;
     line-height: 1.17;
     letter-spacing: 0.04em;
-    display: flex;
     gap: 8px;
     align-items: center;
 }
